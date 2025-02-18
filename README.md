@@ -1,6 +1,6 @@
 # Tecnologias-Front-End
 
-## ariele, rafaela, renan
+## ALUNOS: ariele, rafaela, renan
 
 <h1> O QUE É O HTML? <h1> 
 
